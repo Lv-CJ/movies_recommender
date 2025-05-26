@@ -1,0 +1,11 @@
+# 文件: requirements.txt
+# 内容:
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+flask
+surprise
+flask
+scikit-surprise
